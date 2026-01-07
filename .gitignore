@@ -1,0 +1,6 @@
+data/raw/
+data/satellite_images/
+__pycache__/
+.env
+.DS_Store
+*.xlsx
