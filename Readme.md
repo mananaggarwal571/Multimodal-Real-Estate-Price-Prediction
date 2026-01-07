@@ -62,5 +62,11 @@ The model uses a dual-branch fusion architecture:
 8.  **Screenshot of Comparison between baseline model(using only csv) and my model(using both satellite images and csv file)**
    
        <img width="714" height="234" alt="Screenshot 2026-01-07 184537" src="https://github.com/user-attachments/assets/42c5cc94-2ed7-4f8a-a26a-b3a89b27084e" />
-
-         
+9. **Final Prediction CSV**
+    ```bash
+    23112053_final.csv
+    ```
+10.**Final_Report**
+   ```bash
+   23112053_report.pdf
+   ```   
